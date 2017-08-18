@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "b4c86a3a9ccb45fe590746aad839fbdb"
+build_time: [556382600, 100639000]
+inputs:
+  "/Users/Ross/Desktop/Swift_Work/SIC/SIC/VC2.swift": [556382141, 0]
+  "/Users/Ross/Desktop/Swift_Work/SIC/SIC/ViewController.swift": [556380745, 0]
+  "/Users/Ross/Desktop/Swift_Work/SIC/SIC/AppDelegate.swift": [556377435, 0]
